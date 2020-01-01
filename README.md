@@ -1,6 +1,8 @@
-# AlphaZero-Gomoku-MPI
+# Chapter 16: AlphaZero-Gomoku-MPI(Project 3)
 
 <img src="demo/demo.gif" width=400 >
+## Description
+Example of AlphaZero solving Gomoku game. This repo comes from [initial-h/AlphaZero_Gomoku_MPI](https://github.com/initial-h/AlphaZero_Gomoku_MPI).
 
 ## Updating
 * **2019.03.05 -- upload a 15x15 board [model](https://github.com/initial-h/AlphaZero_Gomoku_MPI/tree/master/model_15_15_5)**
@@ -132,4 +134,22 @@ Most settings are the same with AlphaGo Zero, details as follow :
 * Alter feature planes
 * Implement APV-MCTS
 * Train on standard/renju rule
+
+
+## Authors:
+[Hongming Zhang](https://github.com/initial-h), [Tianyang Yu](https://github.com/Tokarev-TT-33)
+
+
+## Citing:
+
+```
+@misc{DeepReinforcementLearning-Chapter16-AlphaZero,
+  author = {Hongming Zhang, Tianyang Yu},
+  title = {Chapter16-AlphaZero},
+  year = {2019},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/deep-reinforcement-learning-book/Chapter16-AlphaZero}},
+}
+```
 
