@@ -1,6 +1,7 @@
 # Chapter 16: AlphaZero-Gomoku-MPI(Project 3)
 
 <img src="demo/demo.gif" width=400 >
+
 ## Description
 Example of AlphaZero solving Gomoku game. This repo comes from [initial-h/AlphaZero_Gomoku_MPI](https://github.com/initial-h/AlphaZero_Gomoku_MPI).
 
