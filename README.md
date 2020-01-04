@@ -1,4 +1,4 @@
-# Chapter 16: AlphaZero-Gomoku-MPI(Project 3)
+# Chapter 16: AlphaZero(Project 3)
 
 <img src="demo/demo.gif" width=400 >
 
