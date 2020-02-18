@@ -1,4 +1,4 @@
-# Chapter 16: AlphaZero(Project 3)
+# Chapter 15: AlphaZero(Project 3)
 
 <img src="demo/demo.gif" width=400 >
 
@@ -73,7 +73,7 @@ mpiexec -np 43 python -u train_mpi.py
 
 ## Algorithm
 It's almost no difference between AlphaGo Zero except APV-MCTS.
-A PPT can be found in dir [demo/slides](https://github.com/initial-h/AlphaZero_Gomoku_MPI/tree/master/demo/slides)
+A PPT can be found in dir [demo/slides](https://github.com/deep-reinforcement-learning-book/Chapter15-AlphaZero/tree/master/demo/slides)
 
 <img src="demo/algorithm.png" width=1000>
 
@@ -144,13 +144,13 @@ Most settings are the same with AlphaGo Zero, details as follow :
 ## Citing:
 
 ```
-@misc{DeepReinforcementLearning-Chapter16-AlphaZero,
+@misc{DeepReinforcementLearning-Chapter15-AlphaZero,
   author = {Hongming Zhang, Tianyang Yu},
-  title = {Chapter16-AlphaZero},
+  title = {Chapter15-AlphaZero},
   year = {2019},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/deep-reinforcement-learning-book/Chapter16-AlphaZero}},
+  howpublished = {\url{https://github.com/deep-reinforcement-learning-book/Chapter15-AlphaZero}},
 }
 ```
 
